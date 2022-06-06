@@ -60,8 +60,8 @@ public class InsertApp {
 
         InsertApp app = new InsertApp();
         // insert three new rows
-        app.insert('Hero Panti', 'Tiger', 'Tara', 2012, 'hero');
-        app.insert('Away', 'Ajay', 'anksha', 2022, 'Ajay');
+        app.insert('Hero Panti 2', 'Tiger Shroff', 'Tara Sutaria', 2022, 'Ahmed Khan');
+        app.insert('Runway 34', 'Ajay Devgn', 'Aakanksha', 2022, 'Ajay Devgn');
         app.insert('Jersey', 'Shahid Kapoor', 'Mrunal', 2022, 'Gowtam');
         app.insert('Hero Panti', 'Tiger Shroff', 'Kriti Sanon', 2014, 'Sabbir Khan');
     }
